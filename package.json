@@ -1,0 +1,29 @@
+{
+  "name": "dev.limitex.vrchat-package-template",
+  "version": "0.0.0",
+  "displayName": "VRChat Package Template",
+  "description": "This template helps you deliver VRChat packages through VCC using Limitex/vrchat-package-lister. It provides a structured workflow for developing and distributing VRChat content, focusing on automation and ease of use.",
+  "unity": "2022.3",
+  "unityRelease": "22f1",
+  "documentationUrl": "https://github.com/Limitex/vrchat-package-template/tree/main/Documentation~",
+  "changelogUrl": "https://github.com/Limitex/vrchat-package-template/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Limitex/vrchat-package-template/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.vrchat.base" : ">=3.8.0"
+  },
+  "keywords": [
+    "VRChat",
+    "Package",
+    "Manager"
+  ],
+  "author": {
+    "name": "username",
+    "email": "username@example.com",
+    "url": "https://example.com"
+  },
+  "license": "MIT",
+  "vpmDependencies" : {
+    "com.vrchat.base" : ">=3.8.0"
+  },
+  "url": "https://github.com/Limitex/vrchat-package-template"
+}
