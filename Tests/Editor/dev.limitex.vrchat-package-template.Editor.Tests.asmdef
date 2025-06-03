@@ -1,0 +1,11 @@
+{
+    "name": "dev.limitex.vrchat-package-template.Editor.Tests",
+    "references": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

@@ -1,0 +1,9 @@
+{
+    "name": "dev.limitex.vrchat-package-template.Tests",
+    "references": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
