@@ -60,6 +60,7 @@ jobs:
         with:
           tag_name: v${{ steps.get-version.outputs.version }}
           name: Release v${{ steps.get-version.outputs.version }}
+          generate_release_notes: true
           files: |
             mono-ui-${{ steps.get-version.outputs.version }}.zip
             package.json
